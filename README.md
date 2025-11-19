@@ -18,7 +18,7 @@ My academic background combines the rigorous formalism of theoretical physics wi
 * **Tech:** Python (NumPy/SciPy), MATLAB.
 
 #### 2. [Exotic Resonance Simulation (Bethe-Salpeter)](URL_A_TU_REPO_DE_FISICA)
-*Numerical study of the $T_{cc}^+$ tetraquark state using Effective Field Theory.*
+*Numerical study of the Tcc+ tetraquark state using Effective Field Theory.*
 * **Key Algorithms:** Numerical resolution of coupled-channel integral equations and spectral function convolution.
 * **Focus:** Handling logarithmic divergences via dimensional regularization.
 * **Tech:** Computational Physics methods.
@@ -27,4 +27,4 @@ My academic background combines the rigorous formalism of theoretical physics wi
 * **Languages:** Python (Pandas, NumPy, Scikit-learn), MATLAB, LaTeX, R, Mathematica, Root (C++), 
 * **Interests:** Derivatives Pricing, Risk Management, Algorithmic Trading.
 
-📫 **Contact:** [Tu LinkedIn] | [Tu Email]
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/jesus-calbo-berenguer/)| [jesuscalboberenguer@gmail.com]
