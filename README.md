@@ -1,7 +1,8 @@
 ### Hi there! I'm Jesús Calbo 👋
 
-I am a double graduate in **Mathematics and Physics (B.Sc. | B.Sc.)** based in Spain, aiming for a **Quantitative Analyst** role in the European financial sector (Switzerland/London).
+I am a double graduate in **Mathematics and Physics**, aiming for a **Quantitative Analyst** role in the European financial sector (Switzerland/London/Amsterdam).
 
+I hold **two full Bachelor's degrees (B.Sc. Math + B.Sc. Physics)** completed concurrently in an **accelerated 5-year track** (240 + 240 ECTS). Access to this program requires the **highest national entrance score** in Spain (Top 1%).
 My academic background combines the rigorous formalism of theoretical physics with the applied mathematical tooling required for financial modeling.
 
 ### 🧠 Core Competencies
@@ -11,7 +12,7 @@ My academic background combines the rigorous formalism of theoretical physics wi
 
 ### 🚀 Featured Projects
 
-#### 1. [Stochastic Methods in Quantitative Finance](URL_A_TU_REPO_DE_MATES)
+#### 1. [Mathematical Methods in Quantitative Finance](URL_A_TU_REPO_DE_MATES)
 *A comprehensive implementation of pricing models and portfolio optimization algorithms.*
 * **Key Algorithms:** Euler-Maruyama & Milstein schemes for SDEs, Monte Carlo Option Pricing, Mean-Variance Optimization.
 * **Focus:** Analysis of strong convergence orders and efficient frontier generation under constraints.
