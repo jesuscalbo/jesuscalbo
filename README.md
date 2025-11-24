@@ -12,13 +12,13 @@ My academic background combines the rigorous formalism of theoretical physics wi
 
 ### 🚀 Featured Projects
 
-#### 1. [Mathematical Methods in Quantitative Finance]([https://github.com/jesuscalbo/Quantitative-Finance-TFG](https://github.com/jesuscalbo/Quantitative-Finance-TFG/blob/main/TFG%20Jes%C3%BAs%20Calbo%20Berenguer.pdf))
+#### 1. [Mathematical Methods in Quantitative Finance](https://github.com/jesuscalbo/Quantitative-Finance-TFG/blob/main/TFG%20Jes%C3%BAs%20Calbo%20Berenguer.pdf)
 *A comprehensive implementation of pricing models and portfolio optimization algorithms.*
 * **Key Algorithms:** Euler-Maruyama & Milstein schemes for SDEs, Monte Carlo Option Pricing, Mean-Variance Optimization.
 * **Focus:** Analysis of strong convergence orders and efficient frontier generation under constraints.
 * **Tech:** Python (NumPy/SciPy), MATLAB.
 
-#### 2. [Exotic Resonance Simulation (Bethe-Salpeter)](URL_A_TU_REPO_DE_FISICA)
+#### 2. [Exotic Resonance Simulation (Bethe-Salpeter)](https://github.com/jesuscalbo/Exotic-Resonance-TFG-Physics/blob/main/TFG%20F%C3%ADsica%20Jes%C3%BAs%20Calbo%20(1).pdf)
 *Numerical study of the Tcc+ tetraquark state using Effective Field Theory.*
 * **Key Algorithms:** Numerical resolution of coupled-channel integral equations and spectral function convolution.
 * **Focus:** Handling logarithmic divergences via dimensional regularization.
