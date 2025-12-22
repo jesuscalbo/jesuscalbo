@@ -1,6 +1,6 @@
 ### Hi there! I'm Jesús Calbo 👋
 
-I am a double graduate in **Mathematics and Physics**, aiming for a **Quantitative Analyst** role in the European financial sector (Switzerland/London/Amsterdam).
+I am a double graduate in **Mathematics and Physics**, interested in **junior Quant / Quant Dev / Risk Analytics** roles across Europe (Zurich / London / Amsterdam).
 
 I hold **two full Bachelor's degrees (B.Sc. Math + B.Sc. Physics)** completed concurrently in an **accelerated 5-year track** (240 + 240 ECTS). Access to this program requires the **highest national entrance score** in Spain (Top 1%).
 My academic background combines the rigorous formalism of theoretical physics with the applied mathematical tooling required for financial modeling.
@@ -25,7 +25,6 @@ My academic background combines the rigorous formalism of theoretical physics wi
 * **Tech:** Computational Physics methods.
 
 ### 🛠️ Tech Stack
-* **Languages:** Python (Pandas, NumPy, Scikit-learn), MATLAB, LaTeX, R, Mathematica, Root (C++), 
-* **Interests:** Derivatives Pricing, Risk Management, Algorithmic Trading.
+- **Programming:** Python, MATLAB, R, C++ (ROOT; basic), SQL (basic), LaTeX
 
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/jesus-calbo-berenguer/)| [jesuscalboberenguer@gmail.com]
