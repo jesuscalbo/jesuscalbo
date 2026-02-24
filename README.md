@@ -12,7 +12,7 @@ My academic background combines the rigorous formalism of theoretical physics wi
 
 ###  Featured Projects
 
-#### 1. [Mathematical Methods in Quantitative Finance](report/TFG_Jesus_Calbo_Quantitative_Finance.pdf)
+#### 1. [Mathematical Methods in Quantitative Finance](https://github.com/jesuscalbo/Quantitative-Finance-TFG/blob/main/report/TFG_Jesus_Calbo_Quantitative_Finance.pdf)
 *A comprehensive implementation of pricing models and portfolio optimization algorithms.*
 * **Key Algorithms:** Euler-Maruyama & Milstein schemes for SDEs, Monte Carlo Option Pricing, Mean-Variance Optimization.
 * **Focus:** Analysis of strong convergence orders and efficient frontier generation under constraints.
